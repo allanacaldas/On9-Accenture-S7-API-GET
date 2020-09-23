@@ -1,4 +1,3 @@
-const { response } = require('express');
 const express = require('express')
 const porta = 3000;
 const app = express();
