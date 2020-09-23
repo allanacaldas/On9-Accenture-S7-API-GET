@@ -1,0 +1,14 @@
+{
+  "name": "entrega",
+  "version": "1.0.0",
+  "description": "Entrega do exercício da semana 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allana Caldas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
